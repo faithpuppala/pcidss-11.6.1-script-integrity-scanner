@@ -1,5 +1,4 @@
 # PCI DSS 11.6.1 – Client-Side Script Integrity Scanner
-
 ## Overview
 This project is an educational client-side security prototype designed to demonstrate how unauthorized JavaScript execution and DOM manipulation risks can be detected in alignment with PCI DSS 4.0 Requirement 11.6.1.
 
